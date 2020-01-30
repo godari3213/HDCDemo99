@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15217" started-at="2019-09-25T06:32:41Z" finished-at="2019-09-25T06:32:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15217" started-at="2019-09-25T06:32:41Z" finished-at="2019-09-25T06:32:56Z">
+      <class name="testcases_Demo99.TC_04_Search_katalon">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases_Demo99.TC_04_Search_katalon@66a3ffec]" name="setUp" is-config="true" duration-ms="5350" started-at="2019-09-25T06:32:41Z" finished-at="2019-09-25T06:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUntitledTestCase()[pri:0, instance:testcases_Demo99.TC_04_Search_katalon@66a3ffec]" name="testUntitledTestCase" duration-ms="9208" started-at="2019-09-25T06:32:46Z" finished-at="2019-09-25T06:32:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitledTestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases_Demo99.TC_04_Search_katalon@66a3ffec]" name="tearDown" is-config="true" duration-ms="627" started-at="2019-09-25T06:32:56Z" finished-at="2019-09-25T06:32:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases_Demo99.TC_04_Search_katalon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
